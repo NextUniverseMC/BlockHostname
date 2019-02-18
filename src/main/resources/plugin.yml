@@ -1,0 +1,4 @@
+name: BlockHostname
+main: ml.nextuniverse.blockhostname.Main
+version: 1.0
+author: TheDiamondPicks
